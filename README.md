@@ -9,7 +9,7 @@ I began my programming journey as a product manager and owner in the FinTech ind
 * 🌍  I'm based in Oslo
 * 🖥️  See my portfolio at [https://mikkelflassen.com](http://mikkelflassen.com)
 * ✉️  You can contact me at [Mikkelflassen15@gmail.com](mailto:Mikkelflassen15@gmail.com)
-* 🚀  I'm currently working on [Yumzy (Food Social Media)]([http://yumzy.app](https://apps.apple.com/dk/app/hellofood-the-happiest-food/id6450873747?l=da))
+* 🚀  I'm currently working on [Yumzy (Food Social Media)](https://apps.apple.com/dk/app/hellofood-the-happiest-food/id6450873747?l=da)
 * 🧠  I'm learning Front-end moving into back-end in 2024
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  International Business Degree
